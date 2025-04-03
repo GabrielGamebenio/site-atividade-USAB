@@ -1,0 +1,12 @@
+body{
+    font-size: 16px;
+}
+#increase-font-size{
+    font-size: 1em;
+}
+#decrease-font-size{
+    font-size: 1em;
+}
+#content{
+    font-size: 1em;
+}
